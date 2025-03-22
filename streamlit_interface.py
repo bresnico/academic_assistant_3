@@ -36,8 +36,8 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'Get Help': 'https://github.com/votre-repo/academic-assistant',
-        'Report a bug': "https://github.com/votre-repo/academic-assistant/issues",
+        'Get Help': 'https://github.com/bresnico/academic-assistant',
+        'Report a bug': "https://github.com/bresnico/academic-assistant/issues",
         'About': "# Assistant Académique 3.0\nPropulsé par LangGraph et divers modèles de langage."
     }
 )

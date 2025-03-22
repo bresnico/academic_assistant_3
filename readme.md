@@ -23,7 +23,7 @@ Un assistant de recherche académique intelligent, propulsé par LangGraph, Lang
 1. **Cloner le dépôt**
 
 ```bash
-git clone https://github.com/votre-repo/academic-assistant.git
+git clone https://github.com/bresnico/academic-assistant.git
 cd academic-assistant
 ```
 
