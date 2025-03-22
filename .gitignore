@@ -1,0 +1,67 @@
+# Environnements Python
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.python-version
+
+# Base de données vectorielle
+chroma_db/
+chroma_db_3.0/
+*.db
+*.sqlite3
+
+# Dossier de documents
+documents/
+*.pdf
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+academic_assistant.log
+academic_assistant_traces.db
+
+# Fichiers de configuration locaux
+.academic_assistant_config
+.env
+.env.*
+!.env.example
+
+# Fichiers de cache
+.DS_Store
+.cache/
+__pycache__/
+.pytest_cache/
+
+# Fichiers sensibles
+*.pem
+*.key
+*.crt
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# Documentation générée
+docs/_build/
+
+# Fichiers d'IDE et d'éditeurs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.coverage
+htmlcov/
+
+# Fichiers d'exécution
+*.pid
